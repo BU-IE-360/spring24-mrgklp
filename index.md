@@ -4,6 +4,12 @@ You can use the editor on GitHub to maintain and preview the content for your we
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Homework 1
+* [Jupyter Notebook Example HTML](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.html): The .html file is in a folder called files.
+* [R Markdown Example Script](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.md): .md script is in a folder called files.
+* [Python Example Script]([https://github.com/BU-IE-360/spring24-abdullahkayacan-boun/blob/main/files/python_example_in_Jupyter_Notebook.ipynb](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.ipynb)): .ipynb script is in a folder called files.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
