@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Homework 1
 * [Jupyter Notebook Example HTML](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.html): The .html file is in a folder called files.
 * [R Markdown Example Script](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.md): .md script is in a folder called files.
-* [Python Example Script]([https://github.com/BU-IE-360/spring24-abdullahkayacan-boun/blob/main/files/python_example_in_Jupyter_Notebook.ipynb](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.ipynb)): .ipynb script is in a folder called files.
+* [Python Example Script](https://github.com/BU-IE-360/spring24-mrgklp/blob/main/IE360_HW1.ipynb): .ipynb script is in a folder called files.
 
 
 ### Markdown
